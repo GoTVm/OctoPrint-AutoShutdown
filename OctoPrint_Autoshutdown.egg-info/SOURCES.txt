@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+OctoPrint_Autoshutdown.egg-info/PKG-INFO
+OctoPrint_Autoshutdown.egg-info/SOURCES.txt
+OctoPrint_Autoshutdown.egg-info/dependency_links.txt
+OctoPrint_Autoshutdown.egg-info/entry_points.txt
+OctoPrint_Autoshutdown.egg-info/not-zip-safe
+OctoPrint_Autoshutdown.egg-info/requires.txt
+OctoPrint_Autoshutdown.egg-info/top_level.txt
+octoprint_autoshutdown/__init__.py
+octoprint_autoshutdown/static/css/autoshutdown.css
+octoprint_autoshutdown/static/js/autoshutdown.js
+octoprint_autoshutdown/static/less/autoshutdown.less
+octoprint_autoshutdown/templates/README.txt

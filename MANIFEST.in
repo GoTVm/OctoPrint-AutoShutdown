@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_autoshutdown/templates *
+recursive-include octoprint_autoshutdown/translations *
+recursive-include octoprint_autoshutdown/static *
